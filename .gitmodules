@@ -1,0 +1,4 @@
+[submodule "incognito"]
+	path = incognito
+	url = https://github.com/incognito-currency/incognito
+	ignore = all

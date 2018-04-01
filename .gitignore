@@ -1,0 +1,14 @@
+*.user
+*.user.*
+translations/*.qm
+incognito/*
+build
+version.js
+# IOS stuff below
+moc_*
+*.o
+*.mak
+*.build
+*.xcodeproj
+incognito-wallet-gui_plugin_import.cpp
+incognito-wallet-gui_qml_plugin_import.cpp
